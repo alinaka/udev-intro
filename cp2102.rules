@@ -1,0 +1,2 @@
+ATTRS{interface}=="CP2102 USB to UART Bridge Controller", ACTION=="add", RUN+="/home/alina.gotovtceva/udev-intro/cp2102.py"
+
