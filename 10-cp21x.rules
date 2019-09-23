@@ -1,0 +1,2 @@
+DRIVERS=="cp21*", SYMLINK+="ttyCP"
+
