@@ -1,0 +1,2 @@
+ATTRS{interface}=="FT232R USB UART", SYMLINK+="ttyFT"
+
