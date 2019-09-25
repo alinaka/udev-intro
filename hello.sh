@@ -1,4 +1,4 @@
 #!/bin/bash
 
-stty 9600 < /dev/$1 && echo "hello" > /dev/$1
+stty -F /dev/$1 115200 && echo "hello" > /dev/$1
 

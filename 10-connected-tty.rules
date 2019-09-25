@@ -1,1 +1,2 @@
-SUBSYSTEM=="tty",ACTION=="add",MODE="0666",RUN+="/home/alina.gotovtceva/udev-intro/hello.sh %k"
+SUBSYSTEM=="tty", ACTION=="add", MODE="0666", RUN+="/home/alina.gotovtceva/udev-intro/hello.sh %k"
+
