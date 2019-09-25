@@ -1,2 +1,2 @@
-ATTRS{idProduct}=="ea60", ATTRS{idVendor}=="10c4",PROGRAM="/home/alina.gotovtceva/udev-intro/device_namer.py",SYMLINK+="%c%n"
+ATTRS{idProduct}=="ea60", ATTRS{idVendor}=="10c4", PROGRAM="/home/alina.gotovtceva/udev-intro/device_namer.py", SYMLINK+="%c%n"
 

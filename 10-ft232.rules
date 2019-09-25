@@ -1,2 +1,2 @@
-ATTRS{interface}=="FT232R USB UART", SYMLINK+="ttyFT"
+ATTRS{idProduct}=="6001", ATTRS{idVendor}=="0403", SYMLINK+="ttyFT%n"
 

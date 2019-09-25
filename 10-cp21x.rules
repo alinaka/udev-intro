@@ -1,2 +1,2 @@
-DRIVERS=="cp21*", SYMLINK+="ttyCP"
+ATTRS{idProduct}=="ea60", ATTRS{idVendor}=="10c4", SYMLINK+="ttyCP%n"
 

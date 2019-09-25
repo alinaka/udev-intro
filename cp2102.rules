@@ -1,2 +1,2 @@
-ATTRS{interface}=="CP2102 USB to UART Bridge Controller", ACTION=="add", RUN+="/home/alina.gotovtceva/udev-intro/cp2102.py"
+ATTRS{idProduct}=="ea60", ATTRS{idVendor}=="10c4", ACTION=="add", RUN+="/home/alina.gotovtceva/udev-intro/cp2102.py"
 
